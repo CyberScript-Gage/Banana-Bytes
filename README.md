@@ -1,10 +1,10 @@
-# GorillaMods
+# Banana Bytes
 
 
 ## WEBSITE 
 
-https://sites.google.com/view/gorillamodsgm/home
+https://sites.google.com/view/bananabytes/home
 
 ## Discord
 
-https://discord.gg/GxYsZY8k
+https://discord.gg/gNTU5y5mdh
